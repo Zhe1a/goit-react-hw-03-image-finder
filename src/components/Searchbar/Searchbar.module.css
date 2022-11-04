@@ -1,0 +1,25 @@
+.searchbar{ 
+    padding-top: 15px;
+justify-content: center;
+display: flex;
+text-align: center;
+padding-bottom: 15px;
+background-color: rgb(55, 136, 173);
+}
+.button{
+    width: 60px;
+    height: 29px;
+    background-color: aliceblue;
+    border: 0;
+}
+.button-label{
+margin: 0;
+}
+.button:hover{
+    background-color: rgb(59, 58, 58);
+    color: rgb(255, 255, 255);
+}
+.input{
+width: 200px;
+height: 25px;
+}

@@ -1,0 +1,7 @@
+.gallery{
+    padding-top: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+display: flex;
+
+}
